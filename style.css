@@ -1,0 +1,462 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.container{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    padding: 0px 10px;
+}
+.top{
+    height: 50%;
+    width: 100%;
+/* background-color: aqua; */
+}
+.nav{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav h1{
+    font-size: 1.6rem;
+    font-weight: 500;
+    color: white;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    color: white;
+    gap: 20px;
+}
+.menu button{
+    background-color: transparent;
+    padding: 6px 10px;
+    border-radius: 50px;
+    border: solid 1px rgb(255, 255, 255);
+    color: white;
+}
+.search{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.search p{
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+}
+.search i{
+    font-size: 18px;
+    color: white;
+}
+.twocontent{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    gap: 15%;
+    padding-top: 15px;
+}
+.aside{
+    width: 10%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    padding-left: 10px;
+    font-size: 20px;
+}
+.center{
+    width: 90%;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    color: white;
+}
+.center h1{
+    font-size: 3.5rem;
+    font-weight: 400;
+    line-height: 55px;
+    padding-bottom: 15px;
+}
+.center p{
+width: 65%;
+padding-bottom: 20px;
+}
+.bottom{
+        height: 50%;
+        width: 100%;
+        background-color: crimson;
+ }
+
+.box-left{
+    width: 50%;
+    /* background-color: aqua; */
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+img{
+    height: 100%;
+    width: 100%;
+    filter: brightness(0.5);
+filter: saturate(1.5);
+}
+.box-right{
+    width: 50%;
+    height: 100%;
+background-color: crimson;
+}
+.box1{
+    height: 50%;
+    width: 25%;
+    background-color: blue;
+}
+
+.box1{
+    height: 50%;
+    width: 25%;
+    background-color: blue;
+}
+
+/* font-family: "Poppins", sans-serif; */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.container{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    padding: 0px 10px;
+}
+.top{
+    height: 50%;
+    width: 100%;
+/* background-color: aqua; */
+}
+.nav{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav h1{
+    font-size: 1.6rem;
+    font-weight: 500;
+    color: white;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    color: white;
+    gap: 20px;
+}
+.menu button{
+    background-color: transparent;
+    padding: 6px 10px;
+    border-radius: 50px;
+    border: solid 1px rgb(255, 255, 255);
+    color: white;
+}
+.search{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.search p{
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+}
+.search i{
+    font-size: 18px;
+    color: white;
+}
+.twocontent{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    gap: 15%;
+    padding-top: 15px;
+}
+.aside{
+    width: 10%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    padding-left: 10px;
+    font-size: 20px;
+}
+.center{
+    width: 90%;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    color: white;
+}
+.center h1{
+    font-size: 3.5rem;
+    font-weight: 400;
+    line-height: 55px;
+    padding-bottom: 15px;
+}
+.center p{
+width: 65%;
+padding-bottom: 20px;
+}
+.bottom{
+        height: 50%;
+        width: 100%;
+        background-color: crimson;
+ }
+
+.box-left{
+    width: 50%;
+    /* background-color: aqua; */
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+img{
+    height: 100%;
+    width: 100%;
+    filter: brightness(0.5);
+filter: saturate(1.5);
+}
+.box-right{
+    width: 50%;
+    height: 100%;
+background-color: crimson;
+}
+.box1{
+    height: 50%;
+    width: 25%;
+    background-color: blue;
+}
+
+.box1{
+    height: 50%;
+    width: 25%;
+    background-color: blue;
+}
+
+/* font-family: "Poppins", sans-serif; */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.container{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    padding: 0px 10px;
+}
+.top{
+    height: 50%;
+    width: 100%;
+/* background-color: aqua; */
+}
+.nav{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav h1{
+    font-size: 1.6rem;
+    font-weight: 500;
+    color: white;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    color: white;
+    gap: 20px;
+}
+.menu button{
+    background-color: transparent;
+    padding: 6px 10px;
+    border-radius: 50px;
+    border: solid 1px rgb(255, 255, 255);
+    color: white;
+    transition: all 0.2s ease-in-out;
+}
+.search{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.search p{
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+}
+.search i{
+    font-size: 18px;
+    color: white;
+}
+.twocontent{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    gap: 15%;
+    padding-top: 15px;
+}
+.aside{
+    width: 10%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    padding-left: 10px;
+    font-size: 20px;
+}
+.center{
+    width: 90%;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    color: white;
+}
+.center h1{
+    font-size: 3.5rem;
+    font-weight: 400;
+    line-height: 55px;
+    padding-bottom: 15px;
+}
+.center p{
+width: 65%;
+padding-bottom: 20px;
+}
+.bottom{
+        height: 49%;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        background-color: rgb(255, 255, 255);
+        cursor: pointer;
+ }
+
+.box-left{
+    width: 50%;
+    /* background-color: aqua; */
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+img{
+    height: 100%;
+    width: 100%;
+    filter: brightness(0.5);
+filter: saturate(1.5);
+}
+.box-right{
+    width: 50%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+background-color: rgb(250, 250, 250);
+}
+.box1{
+    height: 100%;
+    width: 100%;
+    background-image: url(imgs/2.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.box2{
+    height: 100%;
+    width: 100%;
+    background-image: url(imgs/1.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.box3{
+    height: 100%;
+    width: 100%;
+    background-image: url(imgs/4.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.box4{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(255, 102, 0);
+    background-image: url(imgs/5.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.menu button:hover{
+box-shadow: 0px 0px 10px white;
+cursor: pointer;
+scale: 1.1;
+}
+.box-right .hover{
+    transition: all 0.3s ease-in-out;
+}
+.box-right .hover:hover{
+    scale: 0.9;
+}
+.box-left img{
+transition: all 0.3s ease-in-out;
+}
+.box-left img:hover{
+    scale: 0.9;
+}
+.search p:hover{
+    border: solid 1px white;
+    border-radius: 50px;
+    background-color: white;
+    color: black;
+    transform: scale(1.2);
+}
+.search p{
+    transition: all 0.2s ease-in-out;
+ padding: 5px 20px;
+ border: solid 1px rgba(255, 255, 255, 0);
+ cursor: pointer;
+}
+.top i:hover{
+    border: solid 1px white;
+    border-radius: 50px;
+    background-color: white;
+    color: black;
+    transform: scale(1.2);
+}
+.top i{
+    transition: all 0.2s ease-in-out;
+    padding: 5px 6px;
+    border: solid 1px rgba(255, 255, 255, 0);
+    cursor: pointer;
+}
